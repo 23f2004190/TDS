@@ -1,0 +1,9 @@
+# This is a basic workflow to help you get started with Actions
+
+name: TDS
+
+jobs:
+  test:
+    steps:
+      - name: 23f2004190@ds.study.iitm.ac.in
+        run: echo "Hello, world!"
